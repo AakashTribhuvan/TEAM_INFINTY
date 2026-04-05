@@ -45,32 +45,7 @@ Tech Stack:
 -Platforms:Windows, Meta Quest
 
 
-Project Structure:
-Kalvari-VR/
-│
-├── Assets/
-│   ├── Models/
-│   ├── Textures/
-│   └── Materials/
-│
-├── Scenes/
-│   ├── ControlRoom
-│   └── Walkthrough
-│
-├── Scripts/
-│   ├── Interaction/
-│   ├── SOP_Module/
-│   └── Analytics/
-│
-├── Builds/
-│   ├── Windows/
-│   └── VR/
-│
-├── Docs/
-│   ├── Architecture.md
-│   ├── SOP_Flow.md
-│   └── Interaction_Design.md
-│
+
 ├── Media/
 │   ├── Screenshots/
 │   └── DemoVideo/
