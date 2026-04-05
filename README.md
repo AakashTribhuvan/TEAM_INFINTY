@@ -45,9 +45,4 @@ Tech Stack:
 -Platforms:Windows, Meta Quest
 
 
-
-├── Media/
-│   ├── Screenshots/
-│   └── DemoVideo/
-│
-└── README.md
+{video reference https://youtu.be/IfE-OTiA3bA}
